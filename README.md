@@ -28,5 +28,32 @@ An ideal lead conversion process to be followed at X-education is completed in m
 
 Here, as we progress in the stages we are left only with concrete leads, which have higher chances of getting converted. Since, we are already given with the lead pool, **the main focus of our case study will revolve around the Lead Nurturing / Hot Leads Identification**.
 
+![image](https://user-images.githubusercontent.com/73750698/141242037-dace612c-5c95-4d0a-915a-f0752b68eae5.png)
+
+
+
+## **Project Goal**
+With this Case study, we will try:
+
+1.	Build a Logistic Regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score means higher chances of getting converted and vice-versa.
+2.	Identify the challenges and strategy to overcome them. The model should be self-adjusting to identify such challenges and overcome them as and when required in the future.
+
+3.	Present the recommendations to better on identification and conversion on their merit.
+
+
+# Approach
+The complete project is done in following main steps.
+1. Read and Analysed the data
+2. Data Cleaning
+3. Data Analysis
+4. Data Preparation - Creating Dummies
+5. Correlation Check
+6. Test-Train Split
+7. Rescaling the features with MinMax Scaling
+8. Model Building
+9. Model Testing and Evaluation based on various Parameters
+
+A well documented Jupiter Notebook is attached to explain the stages in more elaborated way. Further, the complete approach is well documented in **X Education Lead Score Case Study Summary** .
+
 
 
