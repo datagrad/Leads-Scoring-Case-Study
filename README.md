@@ -1,4 +1,10 @@
 # Leads-Scoring-Case-Study
+
+
+<a href="https://datagrad.github.io/"><img src="https://img.shields.io/badge/My%20Data%20Science%20Projects-Click%20here%20to%20Check%20my%20other%20Projects-blue">
+
+
+## Project Objective
 This Lead scoring project for a course content development organization will help them with less time wastage over the poor conversion score. 
 This Project will benefit the Marketing and sales team focus on the most prominant conversion of a lead by scoring it from 0 to 1. A lead with lead score of Zero (0) are least likely to go for a course and hence it is better to not waste much time calling or following up with them. While a lead with lead score of near to 1 are more likely to be converted and hence a campaign and sales team can invest time on their conversion.
 The main aims of this Machine Learning project is:
